@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7BY7Fdqq0LE=",
+  "success": true,
+  "projectFilePath": "/Users/premiersoft/Downloads/Teste-Marco-Aurelio-Freitas (1)/Questao1/Questao1.csproj",
+  "expectedPackageFiles": [
+    "/Users/premiersoft/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "/Users/premiersoft/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "/Users/premiersoft/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.35/microsoft.netcore.app.host.osx-arm64.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}

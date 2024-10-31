@@ -1,0 +1,14 @@
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\bin\Debug\net6.0\Questao1.exe
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\bin\Debug\net6.0\Questao1.deps.json
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\bin\Debug\net6.0\Questao1.runtimeconfig.json
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\bin\Debug\net6.0\Questao1.dll
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\bin\Debug\net6.0\Questao1.pdb
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\obj\Debug\net6.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfoInputs.cache
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfo.cs
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\obj\Debug\net6.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\obj\Debug\net6.0\Questao1.dll
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\obj\Debug\net6.0\refint\Questao1.dll
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\obj\Debug\net6.0\Questao1.pdb
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\obj\Debug\net6.0\Questao1.genruntimeconfig.cache
+C:\Users\Marco\Downloads\OneDrive_1_21-10-2024\Questao1\obj\Debug\net6.0\ref\Questao1.dll

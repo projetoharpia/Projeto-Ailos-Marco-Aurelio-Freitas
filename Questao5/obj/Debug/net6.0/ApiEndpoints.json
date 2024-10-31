@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Questao5.Controllers.MovimentacaoController",
+    "Method": "MovimentarConta",
+    "RelativePath": "api/Movimentacao/movimentar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Questao5.Application.Commands.Requests.MovimentacaoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Questao5.Controllers.MovimentacaoController",
+    "Method": "ConsultarSaldo",
+    "RelativePath": "api/Movimentacao/saldo/{numeroConta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroConta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
